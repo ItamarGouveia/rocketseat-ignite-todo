@@ -7,7 +7,7 @@ Todo List</h1>
 
 ### Mantenha suas tarefaaas organizadas e em dia.
 
-# Features
+# Recursos 
 
 - [x] O usuário pode ver a sua lista de tarefas
 - [x] O usuário pode adicionar uma nova tarefa
