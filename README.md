@@ -1,4 +1,7 @@
-<h1 align="center"> <img alt="An coffee cup vector icon" src="https://github.com/ItamarGouveia/rocketseat-ignite-todo/blob/master/src/assets/Logo.svg" height="30px" />  Coffee Delivery</h1>
+<h1 align="center"> 
+
+<img alt="An coffee cup vector icon" src="https://github.com/ItamarGouveia/rocketseat-ignite-todo/blob/master/src/assets/Logo.svg" height="30px" />  
+Todo List</h1>
  
  <img src="https://raw.githubusercontent.com/xSallus/ignite-2022-module-02-challenge-coffee-delivery/main/src/assets/img/edited-preview.png" alt="A preview of the running app on a MacBook pro" width="400px" />
 
