@@ -3,7 +3,7 @@
 <img alt="An coffee cup vector icon" src="https://github.com/ItamarGouveia/rocketseat-ignite-todo/blob/master/src/assets/Logo.svg" height="30px" />  
 Todo List</h1>
  
- <img src="https://github.com/ItamarGouveia/rocketseat-ignite-todo/blob/master/src/assets/img1.png" alt="A preview of the running app on a MacBook pro" width="700px" />
+ <img src="https://github.com/ItamarGouveia/rocketseat-ignite-todo/blob/master/src/assets/img1.png" alt="A preview of the running app on a MacBook pro" width="900px" />
 
 ### An awesome app to get a coffee, no matter where you are.
 
